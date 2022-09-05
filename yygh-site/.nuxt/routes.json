@@ -1,0 +1,80 @@
+[
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\order\\\\index.vue",
+    "chunkName": "pages/order/index"
+  },
+  {
+    "name": "patient",
+    "path": "/patient",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\patient\\\\index.vue",
+    "chunkName": "pages/patient/index"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\user\\\\index.vue",
+    "chunkName": "pages/user/index"
+  },
+  {
+    "name": "hosp-booking",
+    "path": "/hosp/booking",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\hosp\\\\booking.vue",
+    "chunkName": "pages/hosp/booking"
+  },
+  {
+    "name": "hosp-schedule",
+    "path": "/hosp/schedule",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\hosp\\\\schedule.vue",
+    "chunkName": "pages/hosp/schedule"
+  },
+  {
+    "name": "order-show",
+    "path": "/order/show",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\order\\\\show.vue",
+    "chunkName": "pages/order/show"
+  },
+  {
+    "name": "patient-add",
+    "path": "/patient/add",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\patient\\\\add.vue",
+    "chunkName": "pages/patient/add"
+  },
+  {
+    "name": "patient-show",
+    "path": "/patient/show",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\patient\\\\show.vue",
+    "chunkName": "pages/patient/show"
+  },
+  {
+    "name": "weixin-callback",
+    "path": "/weixin/callback",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\weixin\\\\callback.vue",
+    "chunkName": "pages/weixin/callback"
+  },
+  {
+    "name": "hosp-detail-hoscode",
+    "path": "/hosp/detail/:hoscode?",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\hosp\\\\detail\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/detail/_hoscode"
+  },
+  {
+    "name": "hosp-notice-hoscode",
+    "path": "/hosp/notice/:hoscode?",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\hosp\\\\notice\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/notice/_hoscode"
+  },
+  {
+    "name": "hosp-hoscode",
+    "path": "/hosp/:hoscode?",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\hosp\\\\_hoscode.vue",
+    "chunkName": "pages/hosp/_hoscode"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\APP\\\\VC\\\\syt\\\\yygh-site\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
